@@ -162,7 +162,7 @@ Predicted Emotion: calm (Confidence: 0.95)
 
 ## 🛠️ Notes
 
-- Only `.wav` audio files with **≤3 seconds** are supported.
+- Only `.wav` audio files with **≤3 seconds** are preferred.
 - The test script requires all 3 files:
   - `emotion_model.h5`
   - `train_mean.npy`
