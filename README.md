@@ -172,6 +172,6 @@ Predicted Emotion: calm (Confidence: 0.95)
 
 ## 📽️ Demo
 
-> 🎥 [Include your 2-minute Streamlit web app demo video link here after upload.]
-
+> Video - https://drive.google.com/file/d/13WOmXFBoGCV-Mky2Qwk1spaohMHdFZac/view?usp=sharing
+> Webapp - https://speech-emotion-recognition-ghzvmwjxdb9o6djduhbua2.streamlit.app/
 ---
