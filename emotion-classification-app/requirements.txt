@@ -1,8 +1,0 @@
-streamlit==1.25.0
-tensorflow==2.18.0
-numpy
-soundfile
-librosa==0.10.1
-scikit-learn
-matplotlib
-pandas
