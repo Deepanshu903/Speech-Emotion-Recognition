@@ -76,6 +76,3 @@ if uploaded_file is not None:
         st.error(str(e))
     
     os.remove("temp_audio.wav")  
-
-st.markdown("---")
-st.markdown("<div style='text-align: center;'>Developed as a final year Deep Learning project</div>", unsafe_allow_html=True)
